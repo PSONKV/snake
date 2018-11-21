@@ -10,9 +10,7 @@ namespace Snake
     {
         static void Main(string[] args)
         {
-            //initital
-
-
+            //initial
         }
     }
 }
